@@ -1,24 +1,58 @@
 //variables.
 
+
 //const,let and var.
+
 
 //primitive datatype and object.
 
+
 //operators and expressions.
+
 
 //conditional expression.
 
+
 //Note-conditional-:logical operator operate on boolean type.
+
 
 //Note : prompt function returns String type. 
 
+
 //alert : function in js just gives alert msg in a website in a pop up format.
 
-//function in javascript..
-//arrow function..
+
+//function in javascript.
+//arrow function.
+
 
 //objects..
 //properties function..
+
+
+//loops
+//especially for in loop.
+
+
+//Strings.
+//String method, template literals = `` back slash known as template literals.
+//escape sequence.
+//string methods.There are many of them try searching it.
+//string is immutable .i.e it cannot be changed.
+
+
+//Array
+//-->array are the variable which can store multiple value of different type
+//array are mutable .i.e changable.
+//array is also known as special type of object.
+//returns object while using typeof operator.
+//array can store multiple value inside a single name.
+//Array Methods.
+//some array methods returns new array but there are some who change the original array.Be careful. 
+//sort method in array sorts the array alphabetically. 
+//watch sort method very imp.
+//loops in array.
+//map,filters and reduce(also known as higher order array methods.)
 
 
 
